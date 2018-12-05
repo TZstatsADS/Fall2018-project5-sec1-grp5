@@ -17,9 +17,11 @@ Term: Fall 2018
 ![Collaborative](figs/Collaborative_filtering.gif)
 + Project summary: In this project, we applied Alternating Least Square algorithm on Spark platform to provide movie recommendations to clients. We obtained data from 'Movielens', it has over 27 million ratings. The general idea is following:
 ![Collaborative](figs/General_idea.png)
+The basic algoorithm is the following:
+![Collaborative](figs/Algorithm.png)
 + Enviornment: emr - 5.19.0, Spark 2.3.2 on Hadoop 2.8.5 YARN with Ganglia 3.7.2 and Zeppelin 0.8.0
-              + master: m5.4xlarge 
-	      + slaves: 3 * m5.4xlarge
+               master: m5.4xlarge 
+	       slaves: 3 * m5.4xlarge
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
