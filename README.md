@@ -19,6 +19,8 @@ Term: Fall 2018
 ![Collaborative](figs/General_idea.png)
 The basic algoorithm is the following:
 ![Collaborative](figs/Algorithm.png)
+The running time for our model is 97.435 second.
+The RMSE for our model is 0.8188.
 + Enviornment: emr - 5.19.0, Spark 2.3.2 on Hadoop 2.8.5 YARN with Ganglia 3.7.2 and Zeppelin 0.8.0
                master: m5.4xlarge 
 	       slaves: 3 * m5.4xlarge
