@@ -44,11 +44,7 @@ This is the actual recommendation for user 0.
 The RMSE for our model is 0.8188. (Similar competitions were hosted by Netflix and their best RMSE is 0.9514.
 
 + **Conclusion**
- + Taking advantage of cloud computing
- 
- + Model has the capability of adding new user/rating and re-train in a very short period of time
- 
- + Going forward, with more computational power, we can further reduce the computing time and hopefully close to real time
+Taking advantage of cloud computing. Model has the capability of adding new user/rating and re-train in a very short period of time. Going forward, with more computational power, we can further reduce the computing time and hopefully close to real time
 
 
 + **Enviornment**: 
