@@ -20,12 +20,24 @@ Term: Fall 2018
 In this project, we applied Alternating Least Square algorithm on Spark platform to provide movie recommendations to clients. We obtained data from 'Movielens', it has over 27 million ratings and more than 58 thousand movies.
 ![MovieLens](figs/MovieLens.png)
 
++ **Main Idea**
+![Collaborative](figs/MainIdea.png)
+
 + **General Idea**
 ![Collaborative](figs/General_idea.png)
 
 + **Basic Algorithm (Alternating Least Square)**
 ![Collaborative](figs/Algorithm.png)
 The running time for our model is 97.435 second.
+
++ **Example**
+In this recomendation system, clients are allowed to input their concerned movies and corresponding ratings. For example, there is a user 0
+![Collaborative](figs/Example.png)
+
+The running time for retrain our model is 97.435 second.
+
+This is the actual recommendation for user 0.
+![Collaborative](figs/GivenExample.png)
 
 + **Performance**
 The RMSE for our model is 0.8188. (Similar competitions were hosted by Netflix and their best RMSE is 0.9514.
