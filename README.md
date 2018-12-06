@@ -21,7 +21,7 @@ In this project, we applied Alternating Least Square algorithm on Spark platform
 ![MovieLens](figs/MovieLens.png)
 
 + **Main Idea**
-![Collaborative](figs/MainIdea.png)
+![Collaborative](figs/MainIdea.jpg)
 
 + **General Idea**
 ![Collaborative](figs/General_idea.png)
