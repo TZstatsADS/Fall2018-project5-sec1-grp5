@@ -31,7 +31,8 @@ In this project, we applied Alternating Least Square algorithm on Spark platform
 The running time for our model is 97.435 second.
 
 + **Example**
-In this recomendation system, clients are allowed to input their concerned movies and corresponding ratings. For example, there is a user 0
+In this recomendation system, clients are allowed to input their concerned movies and corresponding ratings. For example, there is a user 0.
+
 ![Collaborative](figs/Example.png)
 
 The running time for retrain our model is 97.435 second.
