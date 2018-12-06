@@ -43,9 +43,18 @@ This is the actual recommendation for user 0.
 + **Performance**
 The RMSE for our model is 0.8188. (Similar competitions were hosted by Netflix and their best RMSE is 0.9514.
 
-+ **Enviornment**: emr - 5.19.0, Spark 2.3.2 on Hadoop 2.8.5 YARN with Ganglia 3.7.2 and Zeppelin 0.8.0
-               master: m5.4xlarge 
-	       slaves: 3 * m5.4xlarge
++ **Conclusion**
+ + Taking advantage of cloud computing
+ 
+ + Model has the capability of adding new user/rating and re-train in a very short period of time
+ 
+ + Going forward, with more computational power, we can further reduce the computing time and hopefully close to real time
+
+
++ **Enviornment**: 
++ emr - 5.19.0, Spark 2.3.2 on Hadoop 2.8.5 YARN with Ganglia 3.7.2 and Zeppelin 0.8.0
++ master: m5.4xlarge 
++ slaves: 3 * m5.4xlarge
 
 
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members are major contributors in this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
