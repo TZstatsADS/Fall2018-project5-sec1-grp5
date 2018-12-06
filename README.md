@@ -15,7 +15,10 @@ Term: Fall 2018
 	+ Zhou, Zhibo zz2520@columbia.edu
 
 ![Collaborative](figs/Collaborative_filtering.gif)
-+ Project summary: In this project, we applied Alternating Least Square algorithm on Spark platform to provide movie recommendations to clients. We obtained data from 'Movielens', it has over 27 million ratings. The general idea is following:
++ Project summary: In this project, we applied Alternating Least Square algorithm on Spark platform to provide movie recommendations to clients. We obtained data from 'Movielens', it has over 27 million ratings and more than 58 thousand movies.
+![MovieLens](figs/MovieLens.png)
+
+The general idea is following:
 ![Collaborative](figs/General_idea.png)
 
 + The basic algorithm is the following:
